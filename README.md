@@ -14,6 +14,10 @@ DecepEval is a benchmark for evaluating deception in large language model agents
 
 Each pair includes a `neutral` and an `induced` version to compare agent behavior under external conditions of pressure, incentive, opportunity, and conflict. Evaluation combines task facts, tool feedback, execution traces, and final deliverables to distinguish deception from ordinary errors and honest exits.
 
+<p align="center">
+  <img src="./overview.jpg" alt="DecepEval benchmark overview" width="900">
+</p>
+
 ## Setup
 
 Clone this repository with [Git LFS](https://git-lfs.com/) installed, then run `git lfs pull` to download the bundled Docker image.
