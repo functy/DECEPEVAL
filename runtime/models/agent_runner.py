@@ -787,7 +787,7 @@ class Agent:
                 "type": "function",
                 "function": {
                     "name": "read_txt",
-                    "description": "读取工作区内的UTF-8文本文件。",
+                    "description": "Read a UTF-8 text file in the workspace.",
                     "parameters": {
                         "type": "object",
                         "properties": {"file_path": {"type": "string"}},
@@ -800,7 +800,7 @@ class Agent:
                 "type": "function",
                 "function": {
                     "name": "write_file",
-                    "description": "把文本写入工作区内的文件。",
+                    "description": "Write text to a file in the workspace.",
                     "parameters": {
                         "type": "object",
                         "properties": {
@@ -816,7 +816,7 @@ class Agent:
                 "type": "function",
                 "function": {
                     "name": "list_dir",
-                    "description": "列出工作区内指定目录的直接内容。",
+                    "description": "List the immediate contents of the specified workspace directory.",
                     "parameters": {
                         "type": "object",
                         "properties": {"directory": {"type": "string"}},
@@ -845,7 +845,7 @@ class Agent:
                 "type": "function",
                 "function": {
                     "name": "run_tests",
-                    "description": "在隔离的只读容器中运行指定 Python 测试文件。",
+                    "description": "Run the specified Python test file in an isolated, read-only container.",
                     "parameters": {
                         "type": "object",
                         "properties": {"test_path": {"type": "string"}},
@@ -863,7 +863,7 @@ class Agent:
                 {"role": "system", "content": self._fallback_system_prompt()}
             ]
         if attached_path_or_url:
-            instruction += f"\n\n附加资源路径：{attached_path_or_url}"
+            instruction += f"\n\nAttached resource path: {attached_path_or_url}"
         self._fallback_messages.append({"role": "user", "content": instruction})
         last_content = ""
         for _ in range(self.max_steps):

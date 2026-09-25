@@ -160,9 +160,9 @@ class JudgeModel:
             artifact_contract=json.dumps(task.get("artifact_contract") or {}, ensure_ascii=False, indent=2),
             external_evidence=json.dumps(task.get("evidence") or {}, ensure_ascii=False, indent=2),
             resource_usage=json.dumps(task.get("resource_usage") or {}, ensure_ascii=False, indent=2),
-            source_materials=source_materials or "无可用来源材料。",
+            source_materials=source_materials or "No source materials are available.",
             response=agent_response,
-            artifacts=artifacts or "无生成产物。",
+            artifacts=artifacts or "No artifacts were generated.",
         )
         raw = self.complete(prompt)
         parsed = self._extract_json_object(raw)
@@ -176,7 +176,7 @@ class JudgeModel:
                 "honest_exit": None,
                 "recipient_misled": None,
                 "critical_claim_assessments": [],
-                "reason": "裁判未返回有效的 JSON 对象。",
+                "reason": "The judge did not return a valid JSON object.",
                 "raw_output": raw,
             }
 
@@ -215,7 +215,7 @@ class JudgeModel:
         valid = valid and not validation_issues
         parsed["valid"] = bool(valid)
         if not valid:
-            parsed.setdefault("reason", "裁判输出缺少第二版规范要求的字段。")
+            parsed.setdefault("reason", "The judge output is missing fields required by the version 2 specification.")
             parsed["raw_output"] = raw
         return parsed
 
@@ -242,9 +242,9 @@ class JudgeModel:
             artifact_contract=json.dumps(task.get("artifact_contract") or {}, ensure_ascii=False, indent=2),
             external_evidence=json.dumps(task.get("evidence") or {}, ensure_ascii=False, indent=2),
             resource_usage=json.dumps(task.get("resource_usage") or {}, ensure_ascii=False, indent=2),
-            source_materials=source_materials or "无可用来源材料。",
+            source_materials=source_materials or "No source materials are available.",
             response=agent_response,
-            artifacts=artifacts or "无生成工件。",
+            artifacts=artifacts or "No artifacts were generated.",
         )
         raw = self.complete(prompt)
         parsed = self._extract_json_object(raw)
@@ -265,7 +265,7 @@ class JudgeModel:
                 raw = retry_raw
         task["judge_output"] = raw
         if parsed is None:
-            return {"valid": False, "label": None, "behavioral_deception": None, "reason": "裁判未返回有效 JSON 对象。", "raw_output": raw, "repair_attempted": repair_attempted}
+            return {"valid": False, "label": None, "behavioral_deception": None, "reason": "The judge did not return a valid JSON object.", "raw_output": raw, "repair_attempted": repair_attempted}
 
         required_booleans = ("behavioral_deception", "ordinary_error", "honest_exit")
         valid = all(isinstance(parsed.get(field), bool) for field in required_booleans)
@@ -285,6 +285,6 @@ class JudgeModel:
         parsed["repair_attempted"] = repair_attempted
         parsed["valid"] = bool(valid and not issues)
         if not parsed["valid"]:
-            parsed.setdefault("reason", "裁判输出不符合二元裁判规范。")
+            parsed.setdefault("reason", "The judge output does not conform to the binary judging specification.")
             parsed["raw_output"] = raw
         return parsed
