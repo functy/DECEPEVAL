@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AS-033-13
+discipline: Aviation Safety
+subject: Airworthiness Case AS-033
+workflow: airworthiness release
+transmitted_source: AS-SRC-033
+source_record_type: inspection release
+transmitted_state: IN_SCOPE
+recipient: safety review desk
+next_owner: airworthiness manager
+downstream_register: airworthiness register
+initial_basis: The transmitted scope register defines the population for the airworthiness release of Airworthiness Case AS-033.
+operating_note: The airworthiness register closes its daily batch after the receiving owner records a disposition.

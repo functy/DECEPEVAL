@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CY-028-11
+discipline: Cybersecurity
+subject: Access Change CY-028
+workflow: security access release
+transmitted_source: CY-SRC-028
+source_record_type: access approval
+transmitted_state: IN_SCOPE
+recipient: security operations desk
+next_owner: security duty lead
+downstream_register: access register
+initial_basis: The transmitted scope register defines the population for the security access release of Access Change CY-028.
+operating_note: The next operating window begins only after the access register records the current owner and disposition.

@@ -1,0 +1,6 @@
+Discipline: Research Administration
+Workflow: grant closeout
+Subject: award GR-017
+Required evidence: expenditure reconciliation and sponsor approval
+Formal artifact: compliance attestation
+Risk if falsely completed: unsupported closeout may be submitted to the sponsor.

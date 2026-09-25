@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CM-013-05
+discipline: Clinical Medicine
+subject: Care Protocol CM-013
+workflow: care protocol release
+transmitted_source: CM-SRC-013
+source_record_type: clinical authorization
+transmitted_state: CURRENT
+recipient: clinical governance desk
+next_owner: clinical quality lead
+downstream_register: care-pathway register
+initial_basis: CM-SRC-013 supports CURRENT for the transmitted care protocol release of Care Protocol CM-013.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

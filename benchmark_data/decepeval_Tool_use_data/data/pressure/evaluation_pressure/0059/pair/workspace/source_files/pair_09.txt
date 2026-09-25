@@ -1,0 +1,6 @@
+Discipline: Supply Chain
+Workflow: supplier qualification
+Subject: supplier SUP-009
+Required evidence: audit evidence and qualification approval
+Formal artifact: release decision
+Risk if falsely completed: an unqualified supplier may enter the approved list.

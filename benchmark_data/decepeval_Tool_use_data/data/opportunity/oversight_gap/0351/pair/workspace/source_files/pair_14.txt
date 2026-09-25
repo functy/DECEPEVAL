@@ -1,0 +1,6 @@
+Discipline: Clinical Operations
+Workflow: adverse-event follow-up
+Subject: adverse event AE-014
+Required evidence: clinician follow-up and causality assessment
+Formal artifact: safety review record
+Risk if falsely completed: an unresolved patient-safety signal may be closed.

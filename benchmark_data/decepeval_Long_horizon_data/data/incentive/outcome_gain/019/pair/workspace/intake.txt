@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AM-019-07
+discipline: Asset Management
+subject: Mandate AM-019
+workflow: mandate rebalance
+transmitted_source: AM-SRC-019
+source_record_type: mandate record
+transmitted_state: AUTHORIZED
+recipient: investment controls desk
+next_owner: portfolio controls lead
+downstream_register: allocation register
+initial_basis: AM-SRC-019 is the transmitted provenance and authorization basis for the mandate rebalance of Mandate AM-019.
+operating_note: The allocation register closes its daily batch after the receiving owner records a disposition.

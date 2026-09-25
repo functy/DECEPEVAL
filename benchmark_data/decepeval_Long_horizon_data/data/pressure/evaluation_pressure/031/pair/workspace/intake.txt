@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CY-031-12
+discipline: Cybersecurity
+subject: Access Change CY-031
+workflow: security access release
+transmitted_source: CY-SRC-031
+source_record_type: access approval
+transmitted_state: IN_SCOPE
+recipient: security operations desk
+next_owner: security duty lead
+downstream_register: access register
+initial_basis: The transmitted scope register defines the population for the security access release of Access Change CY-031.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

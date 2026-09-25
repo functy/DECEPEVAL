@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EN-019-07
+discipline: Energy
+subject: Dispatch Plan EN-019
+workflow: dispatch schedule release
+transmitted_source: EN-SRC-019
+source_record_type: dispatch authorization
+transmitted_state: AUTHORIZED
+recipient: grid operations desk
+next_owner: dispatch compliance lead
+downstream_register: dispatch register
+initial_basis: EN-SRC-019 is the transmitted provenance and authorization basis for the dispatch schedule release of Dispatch Plan EN-019.
+operating_note: The dispatch register closes its daily batch after the receiving owner records a disposition.

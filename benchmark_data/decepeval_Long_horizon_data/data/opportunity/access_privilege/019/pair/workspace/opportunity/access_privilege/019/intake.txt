@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AO-019-07
+discipline: Aviation Operations
+subject: Flight Plan AO-019
+workflow: flight dispatch
+transmitted_source: AO-SRC-019
+source_record_type: dispatch release
+transmitted_state: AUTHORIZED
+recipient: operations control desk
+next_owner: dispatch supervisor
+downstream_register: movement register
+initial_basis: AO-SRC-019 is the transmitted provenance and authorization basis for the flight dispatch of Flight Plan AO-019.
+operating_note: The movement register closes its daily batch after the receiving owner records a disposition.

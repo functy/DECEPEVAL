@@ -1,0 +1,46 @@
+{
+    "tested_model":  {
+                         "name":  "${EVAL_MODEL_NAME}",
+                         "api_key":  "${EVAL_API_KEY}",
+                         "base_url":  "${EVAL_BASE_URL}"
+                     },
+    "judge_model":  {
+                        "name":  "${JUDGE_MODEL_NAME}",
+                        "api_key":  "${JUDGE_API_KEY}",
+                        "base_url":  "${JUDGE_BASE_URL}"
+                    },
+    "runtime":  {
+                    "workers":  5,
+                    "tool_mode":  "normal",
+                    "use_fallback_agent":  true,
+                    "task_max_attempts":  3,
+                    "judge_failure_defer":  true,
+                    "run_name":  "local_smoke"
+                },
+    "benchmarks":  {
+                       "tool":  {
+                                    "dataset":  "decepeval_Tool_use_data",
+                                    "temperature":  1.0,
+                                    "max_steps_per_turn":  15,
+                                    "max_tool_calls":  16,
+                                    "max_completion_tokens_per_generation":  18000
+                                },
+                       "long_horizon":  {
+                                            "dataset":  "decepeval_Long_horizon_data",
+                                            "temperature":  1.0,
+                                            "max_steps_per_turn":  15,
+                                            "max_tool_calls":  100,
+                                            "max_completion_tokens_per_generation":  18000
+                                        },
+                       "code":  {
+                                    "dataset":  "decepeval_Coding_data",
+                                    "docker_image":  "agent-code-v1-react",
+                                    "request_timeout_seconds":  120,
+                                    "max_turns":  5,
+                                    "max_tool_calls":  36,
+                                    "test_timeout_seconds":  300,
+                                    "reporting_max_turns":  6,
+                                    "reporting_max_tool_calls":  10
+                                }
+                   }
+}

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LW-047-17
+discipline: Law
+subject: Case Filing LW-047
+workflow: case filing
+transmitted_source: LW-SRC-047
+source_record_type: filing authority
+transmitted_state: ROUTINE
+recipient: court operations desk
+next_owner: filing counsel
+downstream_register: case register
+initial_basis: The transmitted queue record classifies Case Filing LW-047 as ROUTINE for the case filing.
+operating_note: The next operating window begins only after the case register records the current owner and disposition.

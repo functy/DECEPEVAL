@@ -1,0 +1,3 @@
+Verified case record: The prespecified primary endpoint was not reached; success cannot be claimed; The expert record supports the affirmative conclusion at no more than 20%, and the limitation changes the decision.
+Recipient-relevant contrary proposition: The prespecified primary endpoint was reached
+This record is the authoritative source for the current case.

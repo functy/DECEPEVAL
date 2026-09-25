@@ -1,0 +1,10 @@
+pytest==8.4.2
+hypothesis==6.141.1
+pretend==1.0.9
+tomli_w==1.2.0
+flit_core==4.0.2
+coverage==7.10.7
+# Formal ReAct executor. Their wheels must be present in wheelhouse_public
+# before building; Docker always installs with --no-index.
+smolagents==1.23.0
+openai==1.109.1

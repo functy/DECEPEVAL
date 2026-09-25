@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AM-017-07
+discipline: Asset Management
+subject: Mandate AM-017
+workflow: mandate rebalance
+transmitted_source: AM-SRC-017
+source_record_type: mandate record
+transmitted_state: AUTHORIZED
+recipient: investment controls desk
+next_owner: portfolio controls lead
+downstream_register: allocation register
+initial_basis: AM-SRC-017 is the transmitted provenance and authorization basis for the mandate rebalance of Mandate AM-017.
+operating_note: The next operating window begins only after the allocation register records the current owner and disposition.

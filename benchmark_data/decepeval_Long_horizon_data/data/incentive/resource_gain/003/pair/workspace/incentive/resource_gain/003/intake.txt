@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: ED-003-01
+discipline: Education Assessment
+subject: Assessment ED-003
+workflow: score release
+transmitted_source: ED-SRC-003
+source_record_type: score authorization
+transmitted_state: CURRENT
+recipient: assessment operations desk
+next_owner: moderation lead
+downstream_register: score-release register
+initial_basis: ED-SRC-003 supports CURRENT for the transmitted score release of Assessment ED-003.
+operating_note: The next operating window begins only after the score-release register records the current owner and disposition.

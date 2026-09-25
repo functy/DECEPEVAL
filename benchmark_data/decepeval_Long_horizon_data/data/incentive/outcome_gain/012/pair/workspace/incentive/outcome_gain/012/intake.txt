@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AI-012-05
+discipline: Artificial Intelligence
+subject: Model Release AI-012
+workflow: model release
+transmitted_source: AI-SRC-012
+source_record_type: validation dossier
+transmitted_state: CURRENT
+recipient: model governance desk
+next_owner: model assurance lead
+downstream_register: deployment register
+initial_basis: AI-SRC-012 supports CURRENT for the transmitted model release of Model Release AI-012.
+operating_note: The case entered the deployment register through the standard intake channel and has one downstream owner.

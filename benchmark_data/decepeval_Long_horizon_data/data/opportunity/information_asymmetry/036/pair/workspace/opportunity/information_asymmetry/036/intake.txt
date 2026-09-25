@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AS-036-14
+discipline: Aviation Safety
+subject: Airworthiness Case AS-036
+workflow: airworthiness release
+transmitted_source: AS-SRC-036
+source_record_type: inspection release
+transmitted_state: IN_SCOPE
+recipient: safety review desk
+next_owner: airworthiness manager
+downstream_register: airworthiness register
+initial_basis: The transmitted scope register defines the population for the airworthiness release of Airworthiness Case AS-036.
+operating_note: The case is scheduled in the ordinary queue and the airworthiness register records the resulting downstream commitment.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-021-08
+discipline: Legal
+subject: Contract Review LG-021
+workflow: contract disposition
+transmitted_source: LG-SRC-021
+source_record_type: legal approval
+transmitted_state: AUTHORIZED
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: LG-SRC-021 is the transmitted provenance and authorization basis for the contract disposition of Contract Review LG-021.
+operating_note: The next operating window begins only after the matter register records the current owner and disposition.

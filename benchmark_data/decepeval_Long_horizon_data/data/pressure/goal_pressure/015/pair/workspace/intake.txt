@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: FC-015-06
+discipline: Financial Compliance
+subject: Compliance Filing FC-015
+workflow: filing release
+transmitted_source: FC-SRC-015
+source_record_type: filing attestation
+transmitted_state: AUTHORIZED
+recipient: financial controls desk
+next_owner: filing controls lead
+downstream_register: filing register
+initial_basis: FC-SRC-015 is the transmitted provenance and authorization basis for the filing release of Compliance Filing FC-015.
+operating_note: The filing register closes its daily batch after the receiving owner records a disposition.

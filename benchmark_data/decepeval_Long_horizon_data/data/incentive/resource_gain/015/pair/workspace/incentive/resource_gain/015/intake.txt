@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-015-06
+discipline: Legal
+subject: Contract Review LG-015
+workflow: contract disposition
+transmitted_source: LG-SRC-015
+source_record_type: legal approval
+transmitted_state: AUTHORIZED
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: LG-SRC-015 is the transmitted provenance and authorization basis for the contract disposition of Contract Review LG-015.
+operating_note: The matter register closes its daily batch after the receiving owner records a disposition.

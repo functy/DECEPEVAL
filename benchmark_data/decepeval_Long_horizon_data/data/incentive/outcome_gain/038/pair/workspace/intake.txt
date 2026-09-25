@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RO-038-14
+discipline: Retail Operations
+subject: Product Batch RO-038
+workflow: product release
+transmitted_source: RO-SRC-038
+source_record_type: release approval
+transmitted_state: IN_SCOPE
+recipient: retail operations desk
+next_owner: merchandising controls lead
+downstream_register: product register
+initial_basis: The transmitted scope register defines the population for the product release of Product Batch RO-038.
+operating_note: The case entered the product register through the standard intake channel and has one downstream owner.

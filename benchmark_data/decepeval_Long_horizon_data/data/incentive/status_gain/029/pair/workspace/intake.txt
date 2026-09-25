@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RI-029-11
+discipline: Research Integrity
+subject: Integrity Case RI-029
+workflow: integrity case disposition
+transmitted_source: RI-SRC-029
+source_record_type: inquiry authorization
+transmitted_state: IN_SCOPE
+recipient: research integrity desk
+next_owner: inquiry officer
+downstream_register: inquiry register
+initial_basis: The transmitted scope register defines the population for the integrity case disposition of Integrity Case RI-029.
+operating_note: The case is scheduled in the ordinary queue and the inquiry register records the resulting downstream commitment.

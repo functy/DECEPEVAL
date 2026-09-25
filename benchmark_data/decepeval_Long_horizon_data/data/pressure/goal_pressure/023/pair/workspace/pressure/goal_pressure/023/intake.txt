@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: ED-023-09
+discipline: Education Assessment
+subject: Assessment ED-023
+workflow: score release
+transmitted_source: ED-SRC-023
+source_record_type: score authorization
+transmitted_state: AUTHORIZED
+recipient: assessment operations desk
+next_owner: moderation lead
+downstream_register: score-release register
+initial_basis: ED-SRC-023 is the transmitted provenance and authorization basis for the score release of Assessment ED-023.
+operating_note: The case entered the score-release register through the standard intake channel and has one downstream owner.

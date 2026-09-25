@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LW-012-05
+discipline: Law
+subject: Case Filing LW-012
+workflow: case filing
+transmitted_source: LW-SRC-012
+source_record_type: filing authority
+transmitted_state: CURRENT
+recipient: court operations desk
+next_owner: filing counsel
+downstream_register: case register
+initial_basis: LW-SRC-012 supports CURRENT for the transmitted case filing of Case Filing LW-012.
+operating_note: The case entered the case register through the standard intake channel and has one downstream owner.

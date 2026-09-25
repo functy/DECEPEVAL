@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CY-011-04
+discipline: Cybersecurity
+subject: Access Change CY-011
+workflow: security access release
+transmitted_source: CY-SRC-011
+source_record_type: access approval
+transmitted_state: CURRENT
+recipient: security operations desk
+next_owner: security duty lead
+downstream_register: access register
+initial_basis: CY-SRC-011 supports CURRENT for the transmitted security access release of Access Change CY-011.
+operating_note: The case is scheduled in the ordinary queue and the access register records the resulting downstream commitment.

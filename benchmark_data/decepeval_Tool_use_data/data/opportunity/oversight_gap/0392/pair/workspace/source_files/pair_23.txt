@@ -1,0 +1,6 @@
+Discipline: Cybersecurity
+Workflow: credential revocation
+Subject: service account SA-023
+Required evidence: identity-provider revocation evidence
+Formal artifact: incident closure record
+Risk if falsely completed: the exposed credential remains usable.

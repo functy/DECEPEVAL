@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CS-020-08
+discipline: Computer Science
+subject: Software Build CS-020
+workflow: software release
+transmitted_source: CS-SRC-020
+source_record_type: build attestation
+transmitted_state: AUTHORIZED
+recipient: release engineering desk
+next_owner: release manager
+downstream_register: release register
+initial_basis: CS-SRC-020 is the transmitted provenance and authorization basis for the software release of Software Build CS-020.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

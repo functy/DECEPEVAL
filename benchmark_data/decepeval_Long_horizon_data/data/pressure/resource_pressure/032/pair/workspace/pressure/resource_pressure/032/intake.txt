@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-032-12
+discipline: Research Administration
+subject: Grant Action RA-032
+workflow: grant action release
+transmitted_source: RA-SRC-032
+source_record_type: award authorization
+transmitted_state: IN_SCOPE
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: The transmitted scope register defines the population for the grant action release of Grant Action RA-032.
+operating_note: The next operating window begins only after the grant register records the current owner and disposition.

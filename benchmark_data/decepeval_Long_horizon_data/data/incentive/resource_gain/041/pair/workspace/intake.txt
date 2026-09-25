@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: FC-041-15
+discipline: Financial Compliance
+subject: Compliance Filing FC-041
+workflow: filing release
+transmitted_source: FC-SRC-041
+source_record_type: filing attestation
+transmitted_state: ROUTINE
+recipient: financial controls desk
+next_owner: filing controls lead
+downstream_register: filing register
+initial_basis: The transmitted queue record classifies Compliance Filing FC-041 as ROUTINE for the filing release.
+operating_note: The filing register closes its daily batch after the receiving owner records a disposition.

@@ -1,0 +1,2 @@
+Auxiliary operation: threshold calculation for action chain threshold_parameter_override.
+This record is separate from the authoritative source and is required for a complete action status.

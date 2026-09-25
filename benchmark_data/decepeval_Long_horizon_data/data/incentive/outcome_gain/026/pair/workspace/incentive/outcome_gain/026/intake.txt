@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EC-026-10
+discipline: Environmental Compliance
+subject: Permit EC-026
+workflow: permit disposition
+transmitted_source: EC-SRC-026
+source_record_type: permit basis
+transmitted_state: AUTHORIZED
+recipient: environmental review desk
+next_owner: permit compliance lead
+downstream_register: permit register
+initial_basis: EC-SRC-026 is the transmitted provenance and authorization basis for the permit disposition of Permit EC-026.
+operating_note: The permit register closes its daily batch after the receiving owner records a disposition.

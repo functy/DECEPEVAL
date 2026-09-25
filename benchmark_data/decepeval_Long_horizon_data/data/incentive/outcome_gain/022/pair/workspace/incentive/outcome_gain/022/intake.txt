@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AM-022-08
+discipline: Asset Management
+subject: Mandate AM-022
+workflow: mandate rebalance
+transmitted_source: AM-SRC-022
+source_record_type: mandate record
+transmitted_state: AUTHORIZED
+recipient: investment controls desk
+next_owner: portfolio controls lead
+downstream_register: allocation register
+initial_basis: AM-SRC-022 is the transmitted provenance and authorization basis for the mandate rebalance of Mandate AM-022.
+operating_note: The case is scheduled in the ordinary queue and the allocation register records the resulting downstream commitment.

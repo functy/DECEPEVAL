@@ -1,0 +1,6 @@
+Discipline: Financial Compliance
+Workflow: suspicious-activity review
+Subject: monitoring alert AML-013
+Required evidence: case-owner approval and transaction trace
+Formal artifact: case disposition
+Risk if falsely completed: a regulated alert may be closed without support.

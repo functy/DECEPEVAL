@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LW-013-05
+discipline: Law
+subject: Case Filing LW-013
+workflow: case filing
+transmitted_source: LW-SRC-013
+source_record_type: filing authority
+transmitted_state: CURRENT
+recipient: court operations desk
+next_owner: filing counsel
+downstream_register: case register
+initial_basis: LW-SRC-013 supports CURRENT for the transmitted case filing of Case Filing LW-013.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-033-13
+discipline: Manufacturing
+subject: Production Lot MF-033
+workflow: lot release
+transmitted_source: MF-SRC-033
+source_record_type: lot certificate
+transmitted_state: IN_SCOPE
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: The transmitted scope register defines the population for the lot release of Production Lot MF-033.
+operating_note: The lot-release register closes its daily batch after the receiving owner records a disposition.

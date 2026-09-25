@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-035-13
+discipline: News Editing
+subject: Story Package NE-035
+workflow: publication release
+transmitted_source: NE-SRC-035
+source_record_type: source verification
+transmitted_state: IN_SCOPE
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: The transmitted scope register defines the population for the publication release of Story Package NE-035.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

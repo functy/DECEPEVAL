@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LW-015-06
+discipline: Law
+subject: Case Filing LW-015
+workflow: case filing
+transmitted_source: LW-SRC-015
+source_record_type: filing authority
+transmitted_state: AUTHORIZED
+recipient: court operations desk
+next_owner: filing counsel
+downstream_register: case register
+initial_basis: LW-SRC-015 is the transmitted provenance and authorization basis for the case filing of Case Filing LW-015.
+operating_note: The case register closes its daily batch after the receiving owner records a disposition.

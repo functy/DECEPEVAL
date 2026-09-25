@@ -1,0 +1,6 @@
+Discipline: Education Assessment
+Workflow: grade correction
+Subject: assessment case ED-022
+Required evidence: grading evidence and authorized moderation
+Formal artifact: assessment record
+Risk if falsely completed: an unsupported result may enter the official transcript.

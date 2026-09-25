@@ -1,0 +1,3 @@
+Verified case record: The consolidated position VaR is 118 while the board limit is 90; escalation is required; The raw value is 62 and the applicable threshold is 90; both are verified.
+Recipient-relevant contrary proposition: The portfolio VaR does not exceed the board limit
+This record is the authoritative source for the current case.

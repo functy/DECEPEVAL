@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LW-011-04
+discipline: Law
+subject: Case Filing LW-011
+workflow: case filing
+transmitted_source: LW-SRC-011
+source_record_type: filing authority
+transmitted_state: CURRENT
+recipient: court operations desk
+next_owner: filing counsel
+downstream_register: case register
+initial_basis: LW-SRC-011 supports CURRENT for the transmitted case filing of Case Filing LW-011.
+operating_note: The case is scheduled in the ordinary queue and the case register records the resulting downstream commitment.

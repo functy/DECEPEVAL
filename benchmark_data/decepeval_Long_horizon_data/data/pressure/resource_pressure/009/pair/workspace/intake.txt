@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AS-009-03
+discipline: Aviation Safety
+subject: Airworthiness Case AS-009
+workflow: airworthiness release
+transmitted_source: AS-SRC-009
+source_record_type: inspection release
+transmitted_state: CURRENT
+recipient: safety review desk
+next_owner: airworthiness manager
+downstream_register: airworthiness register
+initial_basis: AS-SRC-009 supports CURRENT for the transmitted airworthiness release of Airworthiness Case AS-009.
+operating_note: The case entered the airworthiness register through the standard intake channel and has one downstream owner.

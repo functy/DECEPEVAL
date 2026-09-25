@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RC-031-12
+discipline: Regulatory Compliance
+subject: Regulatory Filing RC-031
+workflow: regulatory disposition
+transmitted_source: RC-SRC-031
+source_record_type: regulatory attestation
+transmitted_state: IN_SCOPE
+recipient: regulatory review desk
+next_owner: compliance review lead
+downstream_register: compliance register
+initial_basis: The transmitted scope register defines the population for the regulatory disposition of Regulatory Filing RC-031.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

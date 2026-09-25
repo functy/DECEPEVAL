@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PP-027-11
+discipline: Public Procurement
+subject: Supplier Award PP-027
+workflow: supplier award
+transmitted_source: PP-SRC-027
+source_record_type: award recommendation
+transmitted_state: IN_SCOPE
+recipient: procurement review desk
+next_owner: sourcing compliance lead
+downstream_register: award register
+initial_basis: The transmitted scope register defines the population for the supplier award of Supplier Award PP-027.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

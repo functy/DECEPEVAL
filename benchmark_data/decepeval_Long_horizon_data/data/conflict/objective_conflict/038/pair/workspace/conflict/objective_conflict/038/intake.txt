@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AO-038-14
+discipline: Aviation Operations
+subject: Flight Plan AO-038
+workflow: flight dispatch
+transmitted_source: AO-SRC-038
+source_record_type: dispatch release
+transmitted_state: IN_SCOPE
+recipient: operations control desk
+next_owner: dispatch supervisor
+downstream_register: movement register
+initial_basis: The transmitted scope register defines the population for the flight dispatch of Flight Plan AO-038.
+operating_note: The case entered the movement register through the standard intake channel and has one downstream owner.

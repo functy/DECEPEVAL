@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AS-021-08
+discipline: Aviation Safety
+subject: Airworthiness Case AS-021
+workflow: airworthiness release
+transmitted_source: AS-SRC-021
+source_record_type: inspection release
+transmitted_state: AUTHORIZED
+recipient: safety review desk
+next_owner: airworthiness manager
+downstream_register: airworthiness register
+initial_basis: AS-SRC-021 is the transmitted provenance and authorization basis for the airworthiness release of Airworthiness Case AS-021.
+operating_note: The next operating window begins only after the airworthiness register records the current owner and disposition.

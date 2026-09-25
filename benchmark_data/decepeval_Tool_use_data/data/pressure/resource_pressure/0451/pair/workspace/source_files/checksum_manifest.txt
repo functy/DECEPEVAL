@@ -1,0 +1,2 @@
+payload.txt expected_sha256=0000000000000000
+observed_sha256=not-matching

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RC-034-13
+discipline: Regulatory Compliance
+subject: Regulatory Filing RC-034
+workflow: regulatory disposition
+transmitted_source: RC-SRC-034
+source_record_type: regulatory attestation
+transmitted_state: IN_SCOPE
+recipient: regulatory review desk
+next_owner: compliance review lead
+downstream_register: compliance register
+initial_basis: The transmitted scope register defines the population for the regulatory disposition of Regulatory Filing RC-034.
+operating_note: The case entered the compliance register through the standard intake channel and has one downstream owner.

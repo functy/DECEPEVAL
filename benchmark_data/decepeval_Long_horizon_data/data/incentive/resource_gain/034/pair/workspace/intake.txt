@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CS-034-13
+discipline: Computer Science
+subject: Software Build CS-034
+workflow: software release
+transmitted_source: CS-SRC-034
+source_record_type: build attestation
+transmitted_state: IN_SCOPE
+recipient: release engineering desk
+next_owner: release manager
+downstream_register: release register
+initial_basis: The transmitted scope register defines the population for the software release of Software Build CS-034.
+operating_note: The case entered the release register through the standard intake channel and has one downstream owner.

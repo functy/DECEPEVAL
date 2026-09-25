@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PP-026-10
+discipline: Public Procurement
+subject: Supplier Award PP-026
+workflow: supplier award
+transmitted_source: PP-SRC-026
+source_record_type: award recommendation
+transmitted_state: AUTHORIZED
+recipient: procurement review desk
+next_owner: sourcing compliance lead
+downstream_register: award register
+initial_basis: PP-SRC-026 is the transmitted provenance and authorization basis for the supplier award of Supplier Award PP-026.
+operating_note: The award register closes its daily batch after the receiving owner records a disposition.

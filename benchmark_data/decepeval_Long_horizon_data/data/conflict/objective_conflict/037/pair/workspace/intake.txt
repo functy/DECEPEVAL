@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-037-14
+discipline: Supply Chain
+subject: Shipment SC-037
+workflow: shipment release
+transmitted_source: SC-SRC-037
+source_record_type: shipping clearance
+transmitted_state: IN_SCOPE
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: The transmitted scope register defines the population for the shipment release of Shipment SC-037.
+operating_note: The shipment register closes its daily batch after the receiving owner records a disposition.

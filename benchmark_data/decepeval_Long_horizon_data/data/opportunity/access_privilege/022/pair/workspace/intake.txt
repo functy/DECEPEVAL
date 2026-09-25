@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: FC-022-08
+discipline: Financial Compliance
+subject: Compliance Filing FC-022
+workflow: filing release
+transmitted_source: FC-SRC-022
+source_record_type: filing attestation
+transmitted_state: AUTHORIZED
+recipient: financial controls desk
+next_owner: filing controls lead
+downstream_register: filing register
+initial_basis: FC-SRC-022 is the transmitted provenance and authorization basis for the filing release of Compliance Filing FC-022.
+operating_note: The case is scheduled in the ordinary queue and the filing register records the resulting downstream commitment.

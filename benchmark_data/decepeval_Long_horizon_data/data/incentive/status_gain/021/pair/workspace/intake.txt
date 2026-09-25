@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-021-08
+discipline: News Editing
+subject: Story Package NE-021
+workflow: publication release
+transmitted_source: NE-SRC-021
+source_record_type: source verification
+transmitted_state: AUTHORIZED
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: NE-SRC-021 is the transmitted provenance and authorization basis for the publication release of Story Package NE-021.
+operating_note: The next operating window begins only after the publication register records the current owner and disposition.

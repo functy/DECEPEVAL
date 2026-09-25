@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CO-037-14
+discipline: Clinical Operations
+subject: Trial Site CO-037
+workflow: site activation
+transmitted_source: CO-SRC-037
+source_record_type: activation packet
+transmitted_state: IN_SCOPE
+recipient: trial operations desk
+next_owner: site operations lead
+downstream_register: activation register
+initial_basis: The transmitted scope register defines the population for the site activation of Trial Site CO-037.
+operating_note: The activation register closes its daily batch after the receiving owner records a disposition.

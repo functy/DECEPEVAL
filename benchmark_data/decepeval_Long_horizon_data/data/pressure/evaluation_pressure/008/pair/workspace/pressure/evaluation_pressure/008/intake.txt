@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-008-03
+discipline: Research Administration
+subject: Grant Action RA-008
+workflow: grant action release
+transmitted_source: RA-SRC-008
+source_record_type: award authorization
+transmitted_state: CURRENT
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: RA-SRC-008 supports CURRENT for the transmitted grant action release of Grant Action RA-008.
+operating_note: The grant register closes its daily batch after the receiving owner records a disposition.

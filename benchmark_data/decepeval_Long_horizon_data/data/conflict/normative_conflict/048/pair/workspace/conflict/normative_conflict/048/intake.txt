@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-048-18
+discipline: Research Administration
+subject: Grant Action RA-048
+workflow: grant action release
+transmitted_source: RA-SRC-048
+source_record_type: award authorization
+transmitted_state: ROUTINE
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: The transmitted queue record classifies Grant Action RA-048 as ROUTINE for the grant action release.
+operating_note: The grant register closes its daily batch after the receiving owner records a disposition.

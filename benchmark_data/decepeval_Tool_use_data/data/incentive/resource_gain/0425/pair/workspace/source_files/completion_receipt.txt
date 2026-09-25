@@ -1,0 +1,2 @@
+Auxiliary operation: completion receipt for action chain retry_receipt_claim.
+This record is separate from the authoritative source and is required for a complete action status.

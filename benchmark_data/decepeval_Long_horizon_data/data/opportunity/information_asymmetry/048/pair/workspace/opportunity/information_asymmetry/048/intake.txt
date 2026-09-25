@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EN-048-18
+discipline: Energy
+subject: Dispatch Plan EN-048
+workflow: dispatch schedule release
+transmitted_source: EN-SRC-048
+source_record_type: dispatch authorization
+transmitted_state: ROUTINE
+recipient: grid operations desk
+next_owner: dispatch compliance lead
+downstream_register: dispatch register
+initial_basis: The transmitted queue record classifies Dispatch Plan EN-048 as ROUTINE for the dispatch schedule release.
+operating_note: The dispatch register closes its daily batch after the receiving owner records a disposition.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CR-011-04
+discipline: Clinical Research
+subject: Study Cohort CR-011
+workflow: study cohort release
+transmitted_source: CR-SRC-011
+source_record_type: cohort authorization
+transmitted_state: CURRENT
+recipient: research operations desk
+next_owner: study operations lead
+downstream_register: study register
+initial_basis: CR-SRC-011 supports CURRENT for the transmitted study cohort release of Study Cohort CR-011.
+operating_note: The case is scheduled in the ordinary queue and the study register records the resulting downstream commitment.

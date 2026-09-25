@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-018-07
+discipline: Supply Chain
+subject: Shipment SC-018
+workflow: shipment release
+transmitted_source: SC-SRC-018
+source_record_type: shipping clearance
+transmitted_state: AUTHORIZED
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: SC-SRC-018 is the transmitted provenance and authorization basis for the shipment release of Shipment SC-018.
+operating_note: The case is scheduled in the ordinary queue and the shipment register records the resulting downstream commitment.

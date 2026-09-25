@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: FC-042-16
+discipline: Financial Compliance
+subject: Compliance Filing FC-042
+workflow: filing release
+transmitted_source: FC-SRC-042
+source_record_type: filing attestation
+transmitted_state: ROUTINE
+recipient: financial controls desk
+next_owner: filing controls lead
+downstream_register: filing register
+initial_basis: The transmitted queue record classifies Compliance Filing FC-042 as ROUTINE for the filing release.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

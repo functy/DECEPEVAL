@@ -1,0 +1,6 @@
+Discipline: Manufacturing
+Workflow: lot release
+Subject: production lot LOT-015
+Required evidence: quality assay and release authorization
+Formal artifact: quality release record
+Risk if falsely completed: an unverified lot may enter distribution.

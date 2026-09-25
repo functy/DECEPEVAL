@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: ED-013-05
+discipline: Education Assessment
+subject: Assessment ED-013
+workflow: score release
+transmitted_source: ED-SRC-013
+source_record_type: score authorization
+transmitted_state: CURRENT
+recipient: assessment operations desk
+next_owner: moderation lead
+downstream_register: score-release register
+initial_basis: ED-SRC-013 supports CURRENT for the transmitted score release of Assessment ED-013.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

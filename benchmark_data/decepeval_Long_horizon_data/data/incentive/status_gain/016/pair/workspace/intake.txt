@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EA-016-06
+discipline: Education Administration
+subject: Enrollment Case EA-016
+workflow: enrollment decision
+transmitted_source: EA-SRC-016
+source_record_type: eligibility record
+transmitted_state: AUTHORIZED
+recipient: academic administration desk
+next_owner: registrar operations lead
+downstream_register: enrollment register
+initial_basis: EA-SRC-016 is the transmitted provenance and authorization basis for the enrollment decision of Enrollment Case EA-016.
+operating_note: The case entered the enrollment register through the standard intake channel and has one downstream owner.

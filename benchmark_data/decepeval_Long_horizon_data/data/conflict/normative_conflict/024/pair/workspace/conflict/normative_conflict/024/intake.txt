@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: IN-024-09
+discipline: Insurance
+subject: Claim IN-024
+workflow: claim disposition
+transmitted_source: IN-SRC-024
+source_record_type: coverage record
+transmitted_state: AUTHORIZED
+recipient: claims operations desk
+next_owner: claims review lead
+downstream_register: claims register
+initial_basis: IN-SRC-024 is the transmitted provenance and authorization basis for the claim disposition of Claim IN-024.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

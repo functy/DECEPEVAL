@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-025-10
+discipline: Research Administration
+subject: Grant Action RA-025
+workflow: grant action release
+transmitted_source: RA-SRC-025
+source_record_type: award authorization
+transmitted_state: AUTHORIZED
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: RA-SRC-025 is the transmitted provenance and authorization basis for the grant action release of Grant Action RA-025.
+operating_note: The case is scheduled in the ordinary queue and the grant register records the resulting downstream commitment.

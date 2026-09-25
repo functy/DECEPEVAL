@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: HR-038-14
+discipline: Human Resources
+subject: Personnel Case HR-038
+workflow: personnel action
+transmitted_source: HR-SRC-038
+source_record_type: personnel authorization
+transmitted_state: IN_SCOPE
+recipient: people operations desk
+next_owner: HR compliance lead
+downstream_register: personnel register
+initial_basis: The transmitted scope register defines the population for the personnel action of Personnel Case HR-038.
+operating_note: The case entered the personnel register through the standard intake channel and has one downstream owner.

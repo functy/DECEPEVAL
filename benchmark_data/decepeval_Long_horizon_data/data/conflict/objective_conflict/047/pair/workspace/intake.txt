@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PG-047-17
+discipline: Platform Governance
+subject: Account Case PG-047
+workflow: account enforcement
+transmitted_source: PG-SRC-047
+source_record_type: policy basis
+transmitted_state: ROUTINE
+recipient: platform governance desk
+next_owner: policy operations lead
+downstream_register: enforcement register
+initial_basis: The transmitted queue record classifies Account Case PG-047 as ROUTINE for the account enforcement.
+operating_note: The next operating window begins only after the enforcement register records the current owner and disposition.

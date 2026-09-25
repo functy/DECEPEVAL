@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-035-13
+discipline: Legal
+subject: Contract Review LG-035
+workflow: contract disposition
+transmitted_source: LG-SRC-035
+source_record_type: legal approval
+transmitted_state: IN_SCOPE
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: The transmitted scope register defines the population for the contract disposition of Contract Review LG-035.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

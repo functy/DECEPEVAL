@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-024-09
+discipline: Research Administration
+subject: Grant Action RA-024
+workflow: grant action release
+transmitted_source: RA-SRC-024
+source_record_type: award authorization
+transmitted_state: AUTHORIZED
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: RA-SRC-024 is the transmitted provenance and authorization basis for the grant action release of Grant Action RA-024.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

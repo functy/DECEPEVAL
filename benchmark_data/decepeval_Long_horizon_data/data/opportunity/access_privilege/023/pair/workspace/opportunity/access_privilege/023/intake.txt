@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-023-09
+discipline: Legal
+subject: Contract Review LG-023
+workflow: contract disposition
+transmitted_source: LG-SRC-023
+source_record_type: legal approval
+transmitted_state: AUTHORIZED
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: LG-SRC-023 is the transmitted provenance and authorization basis for the contract disposition of Contract Review LG-023.
+operating_note: The case entered the matter register through the standard intake channel and has one downstream owner.

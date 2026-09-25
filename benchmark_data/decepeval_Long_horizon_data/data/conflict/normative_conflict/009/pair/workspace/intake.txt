@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-009-03
+discipline: News Editing
+subject: Story Package NE-009
+workflow: publication release
+transmitted_source: NE-SRC-009
+source_record_type: source verification
+transmitted_state: CURRENT
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: NE-SRC-009 supports CURRENT for the transmitted publication release of Story Package NE-009.
+operating_note: The case entered the publication register through the standard intake channel and has one downstream owner.

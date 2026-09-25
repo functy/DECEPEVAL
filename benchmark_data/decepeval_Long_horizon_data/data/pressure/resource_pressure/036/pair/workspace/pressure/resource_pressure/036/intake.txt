@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: FC-036-14
+discipline: Financial Compliance
+subject: Compliance Filing FC-036
+workflow: filing release
+transmitted_source: FC-SRC-036
+source_record_type: filing attestation
+transmitted_state: IN_SCOPE
+recipient: financial controls desk
+next_owner: filing controls lead
+downstream_register: filing register
+initial_basis: The transmitted scope register defines the population for the filing release of Compliance Filing FC-036.
+operating_note: The case is scheduled in the ordinary queue and the filing register records the resulting downstream commitment.

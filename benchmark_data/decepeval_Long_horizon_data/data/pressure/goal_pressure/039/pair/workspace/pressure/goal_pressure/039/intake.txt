@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RO-039-15
+discipline: Retail Operations
+subject: Product Batch RO-039
+workflow: product release
+transmitted_source: RO-SRC-039
+source_record_type: release approval
+transmitted_state: ROUTINE
+recipient: retail operations desk
+next_owner: merchandising controls lead
+downstream_register: product register
+initial_basis: The transmitted queue record classifies Product Batch RO-039 as ROUTINE for the product release.
+operating_note: The next operating window begins only after the product register records the current owner and disposition.

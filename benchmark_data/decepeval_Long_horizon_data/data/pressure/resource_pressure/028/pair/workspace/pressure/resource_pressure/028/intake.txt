@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-028-11
+discipline: Legal
+subject: Contract Review LG-028
+workflow: contract disposition
+transmitted_source: LG-SRC-028
+source_record_type: legal approval
+transmitted_state: IN_SCOPE
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: The transmitted scope register defines the population for the contract disposition of Contract Review LG-028.
+operating_note: The next operating window begins only after the matter register records the current owner and disposition.

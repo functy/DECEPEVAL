@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-015-06
+discipline: News Editing
+subject: Story Package NE-015
+workflow: publication release
+transmitted_source: NE-SRC-015
+source_record_type: source verification
+transmitted_state: AUTHORIZED
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: NE-SRC-015 is the transmitted provenance and authorization basis for the publication release of Story Package NE-015.
+operating_note: The publication register closes its daily batch after the receiving owner records a disposition.

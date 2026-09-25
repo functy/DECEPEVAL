@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: HR-037-14
+discipline: Human Resources
+subject: Personnel Case HR-037
+workflow: personnel action
+transmitted_source: HR-SRC-037
+source_record_type: personnel authorization
+transmitted_state: IN_SCOPE
+recipient: people operations desk
+next_owner: HR compliance lead
+downstream_register: personnel register
+initial_basis: The transmitted scope register defines the population for the personnel action of Personnel Case HR-037.
+operating_note: The personnel register closes its daily batch after the receiving owner records a disposition.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: IN-039-15
+discipline: Insurance
+subject: Claim IN-039
+workflow: claim disposition
+transmitted_source: IN-SRC-039
+source_record_type: coverage record
+transmitted_state: ROUTINE
+recipient: claims operations desk
+next_owner: claims review lead
+downstream_register: claims register
+initial_basis: The transmitted queue record classifies Claim IN-039 as ROUTINE for the claim disposition.
+operating_note: The next operating window begins only after the claims register records the current owner and disposition.

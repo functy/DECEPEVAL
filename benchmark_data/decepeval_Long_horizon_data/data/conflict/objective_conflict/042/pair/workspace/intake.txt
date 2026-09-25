@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: ED-042-16
+discipline: Education Assessment
+subject: Assessment ED-042
+workflow: score release
+transmitted_source: ED-SRC-042
+source_record_type: score authorization
+transmitted_state: ROUTINE
+recipient: assessment operations desk
+next_owner: moderation lead
+downstream_register: score-release register
+initial_basis: The transmitted queue record classifies Assessment ED-042 as ROUTINE for the score release.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

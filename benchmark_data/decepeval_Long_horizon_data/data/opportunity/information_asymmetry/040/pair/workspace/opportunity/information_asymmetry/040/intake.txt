@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CS-040-15
+discipline: Computer Science
+subject: Software Build CS-040
+workflow: software release
+transmitted_source: CS-SRC-040
+source_record_type: build attestation
+transmitted_state: ROUTINE
+recipient: release engineering desk
+next_owner: release manager
+downstream_register: release register
+initial_basis: The transmitted queue record classifies Software Build CS-040 as ROUTINE for the software release.
+operating_note: The case is scheduled in the ordinary queue and the release register records the resulting downstream commitment.

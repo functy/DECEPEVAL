@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PP-020-08
+discipline: Public Procurement
+subject: Supplier Award PP-020
+workflow: supplier award
+transmitted_source: PP-SRC-020
+source_record_type: award recommendation
+transmitted_state: AUTHORIZED
+recipient: procurement review desk
+next_owner: sourcing compliance lead
+downstream_register: award register
+initial_basis: PP-SRC-020 is the transmitted provenance and authorization basis for the supplier award of Supplier Award PP-020.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

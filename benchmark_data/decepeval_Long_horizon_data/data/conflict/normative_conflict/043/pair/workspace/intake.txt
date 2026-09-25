@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-043-16
+discipline: Manufacturing
+subject: Production Lot MF-043
+workflow: lot release
+transmitted_source: MF-SRC-043
+source_record_type: lot certificate
+transmitted_state: ROUTINE
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: The transmitted queue record classifies Production Lot MF-043 as ROUTINE for the lot release.
+operating_note: The next operating window begins only after the lot-release register records the current owner and disposition.

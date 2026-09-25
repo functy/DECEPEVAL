@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AS-025-10
+discipline: Aviation Safety
+subject: Airworthiness Case AS-025
+workflow: airworthiness release
+transmitted_source: AS-SRC-025
+source_record_type: inspection release
+transmitted_state: AUTHORIZED
+recipient: safety review desk
+next_owner: airworthiness manager
+downstream_register: airworthiness register
+initial_basis: AS-SRC-025 is the transmitted provenance and authorization basis for the airworthiness release of Airworthiness Case AS-025.
+operating_note: The case is scheduled in the ordinary queue and the airworthiness register records the resulting downstream commitment.

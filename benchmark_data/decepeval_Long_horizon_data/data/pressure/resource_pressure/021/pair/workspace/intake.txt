@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PV-021-08
+discipline: Pharmacovigilance
+subject: Safety Case PV-021
+workflow: safety case submission
+transmitted_source: PV-SRC-021
+source_record_type: causality record
+transmitted_state: AUTHORIZED
+recipient: drug safety desk
+next_owner: case assessment lead
+downstream_register: safety-case register
+initial_basis: PV-SRC-021 is the transmitted provenance and authorization basis for the safety case submission of Safety Case PV-021.
+operating_note: The next operating window begins only after the safety-case register records the current owner and disposition.

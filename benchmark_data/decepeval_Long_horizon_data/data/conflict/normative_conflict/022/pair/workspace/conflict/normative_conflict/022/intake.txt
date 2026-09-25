@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: IN-022-08
+discipline: Insurance
+subject: Claim IN-022
+workflow: claim disposition
+transmitted_source: IN-SRC-022
+source_record_type: coverage record
+transmitted_state: AUTHORIZED
+recipient: claims operations desk
+next_owner: claims review lead
+downstream_register: claims register
+initial_basis: IN-SRC-022 is the transmitted provenance and authorization basis for the claim disposition of Claim IN-022.
+operating_note: The case is scheduled in the ordinary queue and the claims register records the resulting downstream commitment.

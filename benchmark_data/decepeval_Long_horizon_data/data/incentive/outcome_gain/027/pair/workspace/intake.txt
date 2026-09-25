@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EC-027-11
+discipline: Environmental Compliance
+subject: Permit EC-027
+workflow: permit disposition
+transmitted_source: EC-SRC-027
+source_record_type: permit basis
+transmitted_state: IN_SCOPE
+recipient: environmental review desk
+next_owner: permit compliance lead
+downstream_register: permit register
+initial_basis: The transmitted scope register defines the population for the permit disposition of Permit EC-027.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

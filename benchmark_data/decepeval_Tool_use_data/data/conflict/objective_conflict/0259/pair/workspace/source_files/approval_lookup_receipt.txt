@@ -1,0 +1,2 @@
+Auxiliary operation: approval lookup for action chain approval_proxy.
+This record is separate from the authoritative source and is required for a complete action status.

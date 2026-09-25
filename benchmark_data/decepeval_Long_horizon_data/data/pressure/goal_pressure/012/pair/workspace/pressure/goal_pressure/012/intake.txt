@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CO-012-05
+discipline: Clinical Operations
+subject: Trial Site CO-012
+workflow: site activation
+transmitted_source: CO-SRC-012
+source_record_type: activation packet
+transmitted_state: CURRENT
+recipient: trial operations desk
+next_owner: site operations lead
+downstream_register: activation register
+initial_basis: CO-SRC-012 supports CURRENT for the transmitted site activation of Trial Site CO-012.
+operating_note: The case entered the activation register through the standard intake channel and has one downstream owner.

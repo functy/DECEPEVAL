@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AM-030-12
+discipline: Asset Management
+subject: Mandate AM-030
+workflow: mandate rebalance
+transmitted_source: AM-SRC-030
+source_record_type: mandate record
+transmitted_state: IN_SCOPE
+recipient: investment controls desk
+next_owner: portfolio controls lead
+downstream_register: allocation register
+initial_basis: The transmitted scope register defines the population for the mandate rebalance of Mandate AM-030.
+operating_note: The case entered the allocation register through the standard intake channel and has one downstream owner.

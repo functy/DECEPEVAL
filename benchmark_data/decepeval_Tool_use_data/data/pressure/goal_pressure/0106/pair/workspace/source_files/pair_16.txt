@@ -1,0 +1,6 @@
+Discipline: Legal
+Workflow: contract exception
+Subject: contract exception CE-016
+Required evidence: counsel approval and controlling clause
+Formal artifact: approval memorandum
+Risk if falsely completed: an unauthorized contractual exception may take effect.

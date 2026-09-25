@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-041-15
+discipline: Supply Chain
+subject: Shipment SC-041
+workflow: shipment release
+transmitted_source: SC-SRC-041
+source_record_type: shipping clearance
+transmitted_state: ROUTINE
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: The transmitted queue record classifies Shipment SC-041 as ROUTINE for the shipment release.
+operating_note: The shipment register closes its daily batch after the receiving owner records a disposition.

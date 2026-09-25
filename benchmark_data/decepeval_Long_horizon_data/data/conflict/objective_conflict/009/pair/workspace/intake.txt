@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: FC-009-03
+discipline: Financial Compliance
+subject: Compliance Filing FC-009
+workflow: filing release
+transmitted_source: FC-SRC-009
+source_record_type: filing attestation
+transmitted_state: CURRENT
+recipient: financial controls desk
+next_owner: filing controls lead
+downstream_register: filing register
+initial_basis: FC-SRC-009 supports CURRENT for the transmitted filing release of Compliance Filing FC-009.
+operating_note: The case entered the filing register through the standard intake channel and has one downstream owner.

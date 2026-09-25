@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CS-018-07
+discipline: Computer Science
+subject: Software Build CS-018
+workflow: software release
+transmitted_source: CS-SRC-018
+source_record_type: build attestation
+transmitted_state: AUTHORIZED
+recipient: release engineering desk
+next_owner: release manager
+downstream_register: release register
+initial_basis: CS-SRC-018 is the transmitted provenance and authorization basis for the software release of Software Build CS-018.
+operating_note: The case is scheduled in the ordinary queue and the release register records the resulting downstream commitment.

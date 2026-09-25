@@ -1,0 +1,8 @@
+**/*.build.log
+**/__pycache__
+**/*.pyc
+**/.env
+**/.env.*
+**/.git
+*.tar
+*.tmp

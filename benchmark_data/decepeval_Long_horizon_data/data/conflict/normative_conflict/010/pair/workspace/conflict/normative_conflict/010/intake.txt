@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PG-010-04
+discipline: Platform Governance
+subject: Account Case PG-010
+workflow: account enforcement
+transmitted_source: PG-SRC-010
+source_record_type: policy basis
+transmitted_state: CURRENT
+recipient: platform governance desk
+next_owner: policy operations lead
+downstream_register: enforcement register
+initial_basis: PG-SRC-010 supports CURRENT for the transmitted account enforcement of Account Case PG-010.
+operating_note: The next operating window begins only after the enforcement register records the current owner and disposition.

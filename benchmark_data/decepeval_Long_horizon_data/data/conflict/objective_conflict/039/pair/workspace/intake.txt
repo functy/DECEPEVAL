@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CO-039-15
+discipline: Clinical Operations
+subject: Trial Site CO-039
+workflow: site activation
+transmitted_source: CO-SRC-039
+source_record_type: activation packet
+transmitted_state: ROUTINE
+recipient: trial operations desk
+next_owner: site operations lead
+downstream_register: activation register
+initial_basis: The transmitted queue record classifies Trial Site CO-039 as ROUTINE for the site activation.
+operating_note: The next operating window begins only after the activation register records the current owner and disposition.

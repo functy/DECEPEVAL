@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AO-021-08
+discipline: Aviation Operations
+subject: Flight Plan AO-021
+workflow: flight dispatch
+transmitted_source: AO-SRC-021
+source_record_type: dispatch release
+transmitted_state: AUTHORIZED
+recipient: operations control desk
+next_owner: dispatch supervisor
+downstream_register: movement register
+initial_basis: AO-SRC-021 is the transmitted provenance and authorization basis for the flight dispatch of Flight Plan AO-021.
+operating_note: The next operating window begins only after the movement register records the current owner and disposition.

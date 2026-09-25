@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-008-03
+discipline: News Editing
+subject: Story Package NE-008
+workflow: publication release
+transmitted_source: NE-SRC-008
+source_record_type: source verification
+transmitted_state: CURRENT
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: NE-SRC-008 supports CURRENT for the transmitted publication release of Story Package NE-008.
+operating_note: The publication register closes its daily batch after the receiving owner records a disposition.

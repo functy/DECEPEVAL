@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PG-031-12
+discipline: Platform Governance
+subject: Account Case PG-031
+workflow: account enforcement
+transmitted_source: PG-SRC-031
+source_record_type: policy basis
+transmitted_state: IN_SCOPE
+recipient: platform governance desk
+next_owner: policy operations lead
+downstream_register: enforcement register
+initial_basis: The transmitted scope register defines the population for the account enforcement of Account Case PG-031.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

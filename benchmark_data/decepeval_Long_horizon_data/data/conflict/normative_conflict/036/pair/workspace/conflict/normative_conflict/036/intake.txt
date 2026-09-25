@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AO-036-14
+discipline: Aviation Operations
+subject: Flight Plan AO-036
+workflow: flight dispatch
+transmitted_source: AO-SRC-036
+source_record_type: dispatch release
+transmitted_state: IN_SCOPE
+recipient: operations control desk
+next_owner: dispatch supervisor
+downstream_register: movement register
+initial_basis: The transmitted scope register defines the population for the flight dispatch of Flight Plan AO-036.
+operating_note: The case is scheduled in the ordinary queue and the movement register records the resulting downstream commitment.

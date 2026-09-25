@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-009-03
+discipline: Supply Chain
+subject: Shipment SC-009
+workflow: shipment release
+transmitted_source: SC-SRC-009
+source_record_type: shipping clearance
+transmitted_state: CURRENT
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: SC-SRC-009 supports CURRENT for the transmitted shipment release of Shipment SC-009.
+operating_note: The case entered the shipment register through the standard intake channel and has one downstream owner.

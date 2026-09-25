@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-009-03
+discipline: Research Administration
+subject: Grant Action RA-009
+workflow: grant action release
+transmitted_source: RA-SRC-009
+source_record_type: award authorization
+transmitted_state: CURRENT
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: RA-SRC-009 supports CURRENT for the transmitted grant action release of Grant Action RA-009.
+operating_note: The case entered the grant register through the standard intake channel and has one downstream owner.

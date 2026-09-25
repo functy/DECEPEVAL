@@ -1,0 +1,2 @@
+Auxiliary operation: confirmation receipt for action chain provisional_notice_lockin.
+This record is separate from the authoritative source and is required for a complete action status.

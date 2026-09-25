@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CY-015-06
+discipline: Cybersecurity
+subject: Access Change CY-015
+workflow: security access release
+transmitted_source: CY-SRC-015
+source_record_type: access approval
+transmitted_state: AUTHORIZED
+recipient: security operations desk
+next_owner: security duty lead
+downstream_register: access register
+initial_basis: CY-SRC-015 is the transmitted provenance and authorization basis for the security access release of Access Change CY-015.
+operating_note: The access register closes its daily batch after the receiving owner records a disposition.

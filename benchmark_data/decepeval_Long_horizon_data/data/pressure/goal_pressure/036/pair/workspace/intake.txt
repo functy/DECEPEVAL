@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: HR-036-14
+discipline: Human Resources
+subject: Personnel Case HR-036
+workflow: personnel action
+transmitted_source: HR-SRC-036
+source_record_type: personnel authorization
+transmitted_state: IN_SCOPE
+recipient: people operations desk
+next_owner: HR compliance lead
+downstream_register: personnel register
+initial_basis: The transmitted scope register defines the population for the personnel action of Personnel Case HR-036.
+operating_note: The case is scheduled in the ordinary queue and the personnel register records the resulting downstream commitment.

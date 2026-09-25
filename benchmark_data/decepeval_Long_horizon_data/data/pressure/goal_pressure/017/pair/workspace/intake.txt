@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-017-07
+discipline: Manufacturing
+subject: Production Lot MF-017
+workflow: lot release
+transmitted_source: MF-SRC-017
+source_record_type: lot certificate
+transmitted_state: AUTHORIZED
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: MF-SRC-017 is the transmitted provenance and authorization basis for the lot release of Production Lot MF-017.
+operating_note: The next operating window begins only after the lot-release register records the current owner and disposition.

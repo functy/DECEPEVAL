@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-010-04
+discipline: Supply Chain
+subject: Shipment SC-010
+workflow: shipment release
+transmitted_source: SC-SRC-010
+source_record_type: shipping clearance
+transmitted_state: CURRENT
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: SC-SRC-010 supports CURRENT for the transmitted shipment release of Shipment SC-010.
+operating_note: The next operating window begins only after the shipment register records the current owner and disposition.

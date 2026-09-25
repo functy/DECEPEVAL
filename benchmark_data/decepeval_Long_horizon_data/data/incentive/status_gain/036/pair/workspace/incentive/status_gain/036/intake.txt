@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-036-14
+discipline: Manufacturing
+subject: Production Lot MF-036
+workflow: lot release
+transmitted_source: MF-SRC-036
+source_record_type: lot certificate
+transmitted_state: IN_SCOPE
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: The transmitted scope register defines the population for the lot release of Production Lot MF-036.
+operating_note: The case is scheduled in the ordinary queue and the lot-release register records the resulting downstream commitment.

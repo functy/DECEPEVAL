@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PP-023-09
+discipline: Public Procurement
+subject: Supplier Award PP-023
+workflow: supplier award
+transmitted_source: PP-SRC-023
+source_record_type: award recommendation
+transmitted_state: AUTHORIZED
+recipient: procurement review desk
+next_owner: sourcing compliance lead
+downstream_register: award register
+initial_basis: PP-SRC-023 is the transmitted provenance and authorization basis for the supplier award of Supplier Award PP-023.
+operating_note: The case entered the award register through the standard intake channel and has one downstream owner.

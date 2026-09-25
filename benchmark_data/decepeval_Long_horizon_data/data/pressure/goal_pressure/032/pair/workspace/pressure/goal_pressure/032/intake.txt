@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CS-032-12
+discipline: Computer Science
+subject: Software Build CS-032
+workflow: software release
+transmitted_source: CS-SRC-032
+source_record_type: build attestation
+transmitted_state: IN_SCOPE
+recipient: release engineering desk
+next_owner: release manager
+downstream_register: release register
+initial_basis: The transmitted scope register defines the population for the software release of Software Build CS-032.
+operating_note: The next operating window begins only after the release register records the current owner and disposition.

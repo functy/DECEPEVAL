@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EN-045-17
+discipline: Energy
+subject: Dispatch Plan EN-045
+workflow: dispatch schedule release
+transmitted_source: EN-SRC-045
+source_record_type: dispatch authorization
+transmitted_state: ROUTINE
+recipient: grid operations desk
+next_owner: dispatch compliance lead
+downstream_register: dispatch register
+initial_basis: The transmitted queue record classifies Dispatch Plan EN-045 as ROUTINE for the dispatch schedule release.
+operating_note: The case entered the dispatch register through the standard intake channel and has one downstream owner.

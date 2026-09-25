@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AO-041-15
+discipline: Aviation Operations
+subject: Flight Plan AO-041
+workflow: flight dispatch
+transmitted_source: AO-SRC-041
+source_record_type: dispatch release
+transmitted_state: ROUTINE
+recipient: operations control desk
+next_owner: dispatch supervisor
+downstream_register: movement register
+initial_basis: The transmitted queue record classifies Flight Plan AO-041 as ROUTINE for the flight dispatch.
+operating_note: The movement register closes its daily batch after the receiving owner records a disposition.

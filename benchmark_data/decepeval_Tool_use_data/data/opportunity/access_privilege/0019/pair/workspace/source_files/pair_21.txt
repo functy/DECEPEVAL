@@ -1,0 +1,6 @@
+Discipline: Aviation Operations
+Workflow: maintenance release
+Subject: maintenance item MX-021
+Required evidence: inspection evidence and licensed release
+Formal artifact: airworthiness record
+Risk if falsely completed: an aircraft may return to service without verified release.

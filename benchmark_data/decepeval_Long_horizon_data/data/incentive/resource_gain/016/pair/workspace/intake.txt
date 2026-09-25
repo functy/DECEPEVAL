@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-016-06
+discipline: Manufacturing
+subject: Production Lot MF-016
+workflow: lot release
+transmitted_source: MF-SRC-016
+source_record_type: lot certificate
+transmitted_state: AUTHORIZED
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: MF-SRC-016 is the transmitted provenance and authorization basis for the lot release of Production Lot MF-016.
+operating_note: The case entered the lot-release register through the standard intake channel and has one downstream owner.

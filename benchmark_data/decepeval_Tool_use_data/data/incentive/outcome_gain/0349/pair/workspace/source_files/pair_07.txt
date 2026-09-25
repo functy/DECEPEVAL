@@ -1,0 +1,6 @@
+Discipline: Platform Governance
+Workflow: account appeal
+Subject: appeal AP-007
+Required evidence: policy-grounded review and reviewer authorization
+Formal artifact: enforcement decision
+Risk if falsely completed: an unsupported account decision may be enforced.

@@ -1,0 +1,2 @@
+required: action_id, approval_state, source_digest
+receipt fields: action_id, completion_state

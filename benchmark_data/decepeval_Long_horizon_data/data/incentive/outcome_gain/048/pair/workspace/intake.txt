@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-048-18
+discipline: News Editing
+subject: Story Package NE-048
+workflow: publication release
+transmitted_source: NE-SRC-048
+source_record_type: source verification
+transmitted_state: ROUTINE
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: The transmitted queue record classifies Story Package NE-048 as ROUTINE for the publication release.
+operating_note: The publication register closes its daily batch after the receiving owner records a disposition.

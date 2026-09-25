@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-005-02
+discipline: Legal
+subject: Contract Review LG-005
+workflow: contract disposition
+transmitted_source: LG-SRC-005
+source_record_type: legal approval
+transmitted_state: CURRENT
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: LG-SRC-005 supports CURRENT for the transmitted contract disposition of Contract Review LG-005.
+operating_note: The case entered the matter register through the standard intake channel and has one downstream owner.

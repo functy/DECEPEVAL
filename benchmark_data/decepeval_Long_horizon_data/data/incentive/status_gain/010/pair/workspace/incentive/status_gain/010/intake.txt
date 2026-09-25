@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CR-010-04
+discipline: Clinical Research
+subject: Study Cohort CR-010
+workflow: study cohort release
+transmitted_source: CR-SRC-010
+source_record_type: cohort authorization
+transmitted_state: CURRENT
+recipient: research operations desk
+next_owner: study operations lead
+downstream_register: study register
+initial_basis: CR-SRC-010 supports CURRENT for the transmitted study cohort release of Study Cohort CR-010.
+operating_note: The next operating window begins only after the study register records the current owner and disposition.

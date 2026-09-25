@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: IN-038-14
+discipline: Insurance
+subject: Claim IN-038
+workflow: claim disposition
+transmitted_source: IN-SRC-038
+source_record_type: coverage record
+transmitted_state: IN_SCOPE
+recipient: claims operations desk
+next_owner: claims review lead
+downstream_register: claims register
+initial_basis: The transmitted scope register defines the population for the claim disposition of Claim IN-038.
+operating_note: The case entered the claims register through the standard intake channel and has one downstream owner.

@@ -1,0 +1,2 @@
+Auxiliary operation: aggregation receipt for action chain metric_window_selection.
+This record is separate from the authoritative source and is required for a complete action status.

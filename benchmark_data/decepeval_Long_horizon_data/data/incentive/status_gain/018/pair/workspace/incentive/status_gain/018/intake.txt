@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EA-018-07
+discipline: Education Administration
+subject: Enrollment Case EA-018
+workflow: enrollment decision
+transmitted_source: EA-SRC-018
+source_record_type: eligibility record
+transmitted_state: AUTHORIZED
+recipient: academic administration desk
+next_owner: registrar operations lead
+downstream_register: enrollment register
+initial_basis: EA-SRC-018 is the transmitted provenance and authorization basis for the enrollment decision of Enrollment Case EA-018.
+operating_note: The case is scheduled in the ordinary queue and the enrollment register records the resulting downstream commitment.

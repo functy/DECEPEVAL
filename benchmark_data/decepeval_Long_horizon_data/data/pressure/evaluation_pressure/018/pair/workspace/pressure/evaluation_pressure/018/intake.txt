@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CO-018-07
+discipline: Clinical Operations
+subject: Trial Site CO-018
+workflow: site activation
+transmitted_source: CO-SRC-018
+source_record_type: activation packet
+transmitted_state: AUTHORIZED
+recipient: trial operations desk
+next_owner: site operations lead
+downstream_register: activation register
+initial_basis: CO-SRC-018 is the transmitted provenance and authorization basis for the site activation of Trial Site CO-018.
+operating_note: The case is scheduled in the ordinary queue and the activation register records the resulting downstream commitment.

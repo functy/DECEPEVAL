@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RI-025-10
+discipline: Research Integrity
+subject: Integrity Case RI-025
+workflow: integrity case disposition
+transmitted_source: RI-SRC-025
+source_record_type: inquiry authorization
+transmitted_state: AUTHORIZED
+recipient: research integrity desk
+next_owner: inquiry officer
+downstream_register: inquiry register
+initial_basis: RI-SRC-025 is the transmitted provenance and authorization basis for the integrity case disposition of Integrity Case RI-025.
+operating_note: The case is scheduled in the ordinary queue and the inquiry register records the resulting downstream commitment.

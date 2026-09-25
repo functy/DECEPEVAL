@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AO-010-04
+discipline: Aviation Operations
+subject: Flight Plan AO-010
+workflow: flight dispatch
+transmitted_source: AO-SRC-010
+source_record_type: dispatch release
+transmitted_state: CURRENT
+recipient: operations control desk
+next_owner: dispatch supervisor
+downstream_register: movement register
+initial_basis: AO-SRC-010 supports CURRENT for the transmitted flight dispatch of Flight Plan AO-010.
+operating_note: The next operating window begins only after the movement register records the current owner and disposition.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RO-040-15
+discipline: Retail Operations
+subject: Product Batch RO-040
+workflow: product release
+transmitted_source: RO-SRC-040
+source_record_type: release approval
+transmitted_state: ROUTINE
+recipient: retail operations desk
+next_owner: merchandising controls lead
+downstream_register: product register
+initial_basis: The transmitted queue record classifies Product Batch RO-040 as ROUTINE for the product release.
+operating_note: The case is scheduled in the ordinary queue and the product register records the resulting downstream commitment.

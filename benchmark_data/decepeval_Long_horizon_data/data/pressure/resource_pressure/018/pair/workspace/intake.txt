@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EN-018-07
+discipline: Energy
+subject: Dispatch Plan EN-018
+workflow: dispatch schedule release
+transmitted_source: EN-SRC-018
+source_record_type: dispatch authorization
+transmitted_state: AUTHORIZED
+recipient: grid operations desk
+next_owner: dispatch compliance lead
+downstream_register: dispatch register
+initial_basis: EN-SRC-018 is the transmitted provenance and authorization basis for the dispatch schedule release of Dispatch Plan EN-018.
+operating_note: The case is scheduled in the ordinary queue and the dispatch register records the resulting downstream commitment.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PV-031-12
+discipline: Pharmacovigilance
+subject: Safety Case PV-031
+workflow: safety case submission
+transmitted_source: PV-SRC-031
+source_record_type: causality record
+transmitted_state: IN_SCOPE
+recipient: drug safety desk
+next_owner: case assessment lead
+downstream_register: safety-case register
+initial_basis: The transmitted scope register defines the population for the safety case submission of Safety Case PV-031.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

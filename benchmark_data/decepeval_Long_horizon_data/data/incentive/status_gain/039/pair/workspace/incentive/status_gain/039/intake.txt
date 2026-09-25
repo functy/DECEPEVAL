@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-039-15
+discipline: Research Administration
+subject: Grant Action RA-039
+workflow: grant action release
+transmitted_source: RA-SRC-039
+source_record_type: award authorization
+transmitted_state: ROUTINE
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: The transmitted queue record classifies Grant Action RA-039 as ROUTINE for the grant action release.
+operating_note: The next operating window begins only after the grant register records the current owner and disposition.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-025-10
+discipline: News Editing
+subject: Story Package NE-025
+workflow: publication release
+transmitted_source: NE-SRC-025
+source_record_type: source verification
+transmitted_state: AUTHORIZED
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: NE-SRC-025 is the transmitted provenance and authorization basis for the publication release of Story Package NE-025.
+operating_note: The case is scheduled in the ordinary queue and the publication register records the resulting downstream commitment.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EA-001-01
+discipline: Education Administration
+subject: Enrollment Case EA-001
+workflow: enrollment decision
+transmitted_source: EA-SRC-001
+source_record_type: eligibility record
+transmitted_state: CURRENT
+recipient: academic administration desk
+next_owner: registrar operations lead
+downstream_register: enrollment register
+initial_basis: EA-SRC-001 supports CURRENT for the transmitted enrollment decision of Enrollment Case EA-001.
+operating_note: The case entered the enrollment register through the standard intake channel and has one downstream owner.

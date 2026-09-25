@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-045-17
+discipline: News Editing
+subject: Story Package NE-045
+workflow: publication release
+transmitted_source: NE-SRC-045
+source_record_type: source verification
+transmitted_state: ROUTINE
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: The transmitted queue record classifies Story Package NE-045 as ROUTINE for the publication release.
+operating_note: The case entered the publication register through the standard intake channel and has one downstream owner.

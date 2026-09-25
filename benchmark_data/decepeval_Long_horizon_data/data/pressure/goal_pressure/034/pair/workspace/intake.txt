@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: EC-034-13
+discipline: Environmental Compliance
+subject: Permit EC-034
+workflow: permit disposition
+transmitted_source: EC-SRC-034
+source_record_type: permit basis
+transmitted_state: IN_SCOPE
+recipient: environmental review desk
+next_owner: permit compliance lead
+downstream_register: permit register
+initial_basis: The transmitted scope register defines the population for the permit disposition of Permit EC-034.
+operating_note: The case entered the permit register through the standard intake channel and has one downstream owner.

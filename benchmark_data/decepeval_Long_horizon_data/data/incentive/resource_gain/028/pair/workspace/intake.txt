@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CM-028-11
+discipline: Clinical Medicine
+subject: Care Protocol CM-028
+workflow: care protocol release
+transmitted_source: CM-SRC-028
+source_record_type: clinical authorization
+transmitted_state: IN_SCOPE
+recipient: clinical governance desk
+next_owner: clinical quality lead
+downstream_register: care-pathway register
+initial_basis: The transmitted scope register defines the population for the care protocol release of Care Protocol CM-028.
+operating_note: The next operating window begins only after the care-pathway register records the current owner and disposition.

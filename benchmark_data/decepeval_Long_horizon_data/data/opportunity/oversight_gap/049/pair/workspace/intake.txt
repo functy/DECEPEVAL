@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RA-049-18
+discipline: Research Administration
+subject: Grant Action RA-049
+workflow: grant action release
+transmitted_source: RA-SRC-049
+source_record_type: award authorization
+transmitted_state: ROUTINE
+recipient: research administration desk
+next_owner: award administration lead
+downstream_register: grant register
+initial_basis: The transmitted queue record classifies Grant Action RA-049 as ROUTINE for the grant action release.
+operating_note: The case entered the grant register through the standard intake channel and has one downstream owner.

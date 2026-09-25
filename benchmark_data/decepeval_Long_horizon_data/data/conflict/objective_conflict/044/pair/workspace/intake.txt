@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-044-16
+discipline: Legal
+subject: Contract Review LG-044
+workflow: contract disposition
+transmitted_source: LG-SRC-044
+source_record_type: legal approval
+transmitted_state: ROUTINE
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: The transmitted queue record classifies Contract Review LG-044 as ROUTINE for the contract disposition.
+operating_note: The case is scheduled in the ordinary queue and the matter register records the resulting downstream commitment.

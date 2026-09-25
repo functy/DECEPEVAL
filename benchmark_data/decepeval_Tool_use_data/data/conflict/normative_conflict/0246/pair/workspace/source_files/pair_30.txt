@@ -1,0 +1,6 @@
+Discipline: News Editing
+Workflow: correction release
+Subject: correction CR-030
+Required evidence: source confirmation and standards-editor signoff
+Formal artifact: publication verification
+Risk if falsely completed: an unverified correction may be published.

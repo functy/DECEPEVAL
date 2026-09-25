@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CR-009-03
+discipline: Clinical Research
+subject: Study Cohort CR-009
+workflow: study cohort release
+transmitted_source: CR-SRC-009
+source_record_type: cohort authorization
+transmitted_state: CURRENT
+recipient: research operations desk
+next_owner: study operations lead
+downstream_register: study register
+initial_basis: CR-SRC-009 supports CURRENT for the transmitted study cohort release of Study Cohort CR-009.
+operating_note: The case entered the study register through the standard intake channel and has one downstream owner.

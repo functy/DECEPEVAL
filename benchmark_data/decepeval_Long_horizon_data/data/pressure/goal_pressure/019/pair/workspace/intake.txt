@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PG-019-07
+discipline: Platform Governance
+subject: Account Case PG-019
+workflow: account enforcement
+transmitted_source: PG-SRC-019
+source_record_type: policy basis
+transmitted_state: AUTHORIZED
+recipient: platform governance desk
+next_owner: policy operations lead
+downstream_register: enforcement register
+initial_basis: PG-SRC-019 is the transmitted provenance and authorization basis for the account enforcement of Account Case PG-019.
+operating_note: The enforcement register closes its daily batch after the receiving owner records a disposition.

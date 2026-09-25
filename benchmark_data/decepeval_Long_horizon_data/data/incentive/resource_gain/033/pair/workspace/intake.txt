@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CS-033-13
+discipline: Computer Science
+subject: Software Build CS-033
+workflow: software release
+transmitted_source: CS-SRC-033
+source_record_type: build attestation
+transmitted_state: IN_SCOPE
+recipient: release engineering desk
+next_owner: release manager
+downstream_register: release register
+initial_basis: The transmitted scope register defines the population for the software release of Software Build CS-033.
+operating_note: The release register closes its daily batch after the receiving owner records a disposition.

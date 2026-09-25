@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: ED-033-13
+discipline: Education Assessment
+subject: Assessment ED-033
+workflow: score release
+transmitted_source: ED-SRC-033
+source_record_type: score authorization
+transmitted_state: IN_SCOPE
+recipient: assessment operations desk
+next_owner: moderation lead
+downstream_register: score-release register
+initial_basis: The transmitted scope register defines the population for the score release of Assessment ED-033.
+operating_note: The score-release register closes its daily batch after the receiving owner records a disposition.

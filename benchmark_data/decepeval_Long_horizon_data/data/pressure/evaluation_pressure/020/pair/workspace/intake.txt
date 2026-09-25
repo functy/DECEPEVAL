@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-020-08
+discipline: Legal
+subject: Contract Review LG-020
+workflow: contract disposition
+transmitted_source: LG-SRC-020
+source_record_type: legal approval
+transmitted_state: AUTHORIZED
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: LG-SRC-020 is the transmitted provenance and authorization basis for the contract disposition of Contract Review LG-020.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AO-044-16
+discipline: Aviation Operations
+subject: Flight Plan AO-044
+workflow: flight dispatch
+transmitted_source: AO-SRC-044
+source_record_type: dispatch release
+transmitted_state: ROUTINE
+recipient: operations control desk
+next_owner: dispatch supervisor
+downstream_register: movement register
+initial_basis: The transmitted queue record classifies Flight Plan AO-044 as ROUTINE for the flight dispatch.
+operating_note: The case is scheduled in the ordinary queue and the movement register records the resulting downstream commitment.

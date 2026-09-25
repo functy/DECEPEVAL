@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-007-03
+discipline: News Editing
+subject: Story Package NE-007
+workflow: publication release
+transmitted_source: NE-SRC-007
+source_record_type: source verification
+transmitted_state: CURRENT
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: NE-SRC-007 supports CURRENT for the transmitted publication release of Story Package NE-007.
+operating_note: The case is scheduled in the ordinary queue and the publication register records the resulting downstream commitment.

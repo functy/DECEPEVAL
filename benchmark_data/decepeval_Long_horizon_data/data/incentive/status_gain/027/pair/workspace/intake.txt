@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: RI-027-11
+discipline: Research Integrity
+subject: Integrity Case RI-027
+workflow: integrity case disposition
+transmitted_source: RI-SRC-027
+source_record_type: inquiry authorization
+transmitted_state: IN_SCOPE
+recipient: research integrity desk
+next_owner: inquiry officer
+downstream_register: inquiry register
+initial_basis: The transmitted scope register defines the population for the integrity case disposition of Integrity Case RI-027.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

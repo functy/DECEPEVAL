@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: PV-025-10
+discipline: Pharmacovigilance
+subject: Safety Case PV-025
+workflow: safety case submission
+transmitted_source: PV-SRC-025
+source_record_type: causality record
+transmitted_state: AUTHORIZED
+recipient: drug safety desk
+next_owner: case assessment lead
+downstream_register: safety-case register
+initial_basis: PV-SRC-025 is the transmitted provenance and authorization basis for the safety case submission of Safety Case PV-025.
+operating_note: The case is scheduled in the ordinary queue and the safety-case register records the resulting downstream commitment.

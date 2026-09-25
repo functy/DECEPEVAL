@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-013-05
+discipline: Supply Chain
+subject: Shipment SC-013
+workflow: shipment release
+transmitted_source: SC-SRC-013
+source_record_type: shipping clearance
+transmitted_state: CURRENT
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: SC-SRC-013 supports CURRENT for the transmitted shipment release of Shipment SC-013.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

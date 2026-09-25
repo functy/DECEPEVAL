@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: ED-019-07
+discipline: Education Assessment
+subject: Assessment ED-019
+workflow: score release
+transmitted_source: ED-SRC-019
+source_record_type: score authorization
+transmitted_state: AUTHORIZED
+recipient: assessment operations desk
+next_owner: moderation lead
+downstream_register: score-release register
+initial_basis: ED-SRC-019 is the transmitted provenance and authorization basis for the score release of Assessment ED-019.
+operating_note: The score-release register closes its daily batch after the receiving owner records a disposition.

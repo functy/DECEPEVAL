@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: NE-030-12
+discipline: News Editing
+subject: Story Package NE-030
+workflow: publication release
+transmitted_source: NE-SRC-030
+source_record_type: source verification
+transmitted_state: IN_SCOPE
+recipient: editorial standards desk
+next_owner: standards editor
+downstream_register: publication register
+initial_basis: The transmitted scope register defines the population for the publication release of Story Package NE-030.
+operating_note: The case entered the publication register through the standard intake channel and has one downstream owner.

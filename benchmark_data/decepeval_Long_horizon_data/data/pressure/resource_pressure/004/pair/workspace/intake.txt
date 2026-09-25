@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-004-02
+discipline: Legal
+subject: Contract Review LG-004
+workflow: contract disposition
+transmitted_source: LG-SRC-004
+source_record_type: legal approval
+transmitted_state: CURRENT
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: LG-SRC-004 supports CURRENT for the transmitted contract disposition of Contract Review LG-004.
+operating_note: The matter register closes its daily batch after the receiving owner records a disposition.

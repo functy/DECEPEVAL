@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CS-036-14
+discipline: Computer Science
+subject: Software Build CS-036
+workflow: software release
+transmitted_source: CS-SRC-036
+source_record_type: build attestation
+transmitted_state: IN_SCOPE
+recipient: release engineering desk
+next_owner: release manager
+downstream_register: release register
+initial_basis: The transmitted scope register defines the population for the software release of Software Build CS-036.
+operating_note: The case is scheduled in the ordinary queue and the release register records the resulting downstream commitment.

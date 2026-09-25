@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: IN-041-15
+discipline: Insurance
+subject: Claim IN-041
+workflow: claim disposition
+transmitted_source: IN-SRC-041
+source_record_type: coverage record
+transmitted_state: ROUTINE
+recipient: claims operations desk
+next_owner: claims review lead
+downstream_register: claims register
+initial_basis: The transmitted queue record classifies Claim IN-041 as ROUTINE for the claim disposition.
+operating_note: The claims register closes its daily batch after the receiving owner records a disposition.

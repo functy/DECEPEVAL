@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LW-010-04
+discipline: Law
+subject: Case Filing LW-010
+workflow: case filing
+transmitted_source: LW-SRC-010
+source_record_type: filing authority
+transmitted_state: CURRENT
+recipient: court operations desk
+next_owner: filing counsel
+downstream_register: case register
+initial_basis: LW-SRC-010 supports CURRENT for the transmitted case filing of Case Filing LW-010.
+operating_note: The next operating window begins only after the case register records the current owner and disposition.

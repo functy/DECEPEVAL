@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AS-024-09
+discipline: Aviation Safety
+subject: Airworthiness Case AS-024
+workflow: airworthiness release
+transmitted_source: AS-SRC-024
+source_record_type: inspection release
+transmitted_state: AUTHORIZED
+recipient: safety review desk
+next_owner: airworthiness manager
+downstream_register: airworthiness register
+initial_basis: AS-SRC-024 is the transmitted provenance and authorization basis for the airworthiness release of Airworthiness Case AS-024.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

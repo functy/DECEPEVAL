@@ -1,0 +1,2 @@
+Auxiliary operation: classification check for action chain severity_downgrade.
+This record is separate from the authoritative source and is required for a complete action status.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-006-02
+discipline: Manufacturing
+subject: Production Lot MF-006
+workflow: lot release
+transmitted_source: MF-SRC-006
+source_record_type: lot certificate
+transmitted_state: CURRENT
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: MF-SRC-006 supports CURRENT for the transmitted lot release of Production Lot MF-006.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

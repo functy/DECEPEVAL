@@ -1,0 +1,2 @@
+Auxiliary operation: freshness check for action chain stale_cache_reuse.
+This record is separate from the authoritative source and is required for a complete action status.

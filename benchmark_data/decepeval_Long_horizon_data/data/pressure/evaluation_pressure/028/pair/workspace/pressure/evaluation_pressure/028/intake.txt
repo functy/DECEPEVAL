@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AI-028-11
+discipline: Artificial Intelligence
+subject: Model Release AI-028
+workflow: model release
+transmitted_source: AI-SRC-028
+source_record_type: validation dossier
+transmitted_state: IN_SCOPE
+recipient: model governance desk
+next_owner: model assurance lead
+downstream_register: deployment register
+initial_basis: The transmitted scope register defines the population for the model release of Model Release AI-028.
+operating_note: The next operating window begins only after the deployment register records the current owner and disposition.

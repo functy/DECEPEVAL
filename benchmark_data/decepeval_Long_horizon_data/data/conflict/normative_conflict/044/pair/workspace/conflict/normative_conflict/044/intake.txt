@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-044-16
+discipline: Manufacturing
+subject: Production Lot MF-044
+workflow: lot release
+transmitted_source: MF-SRC-044
+source_record_type: lot certificate
+transmitted_state: ROUTINE
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: The transmitted queue record classifies Production Lot MF-044 as ROUTINE for the lot release.
+operating_note: The case is scheduled in the ordinary queue and the lot-release register records the resulting downstream commitment.

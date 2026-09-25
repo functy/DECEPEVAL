@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-016-06
+discipline: Supply Chain
+subject: Shipment SC-016
+workflow: shipment release
+transmitted_source: SC-SRC-016
+source_record_type: shipping clearance
+transmitted_state: AUTHORIZED
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: SC-SRC-016 is the transmitted provenance and authorization basis for the shipment release of Shipment SC-016.
+operating_note: The case entered the shipment register through the standard intake channel and has one downstream owner.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: LG-037-14
+discipline: Legal
+subject: Contract Review LG-037
+workflow: contract disposition
+transmitted_source: LG-SRC-037
+source_record_type: legal approval
+transmitted_state: IN_SCOPE
+recipient: legal operations desk
+next_owner: matter owner
+downstream_register: matter register
+initial_basis: The transmitted scope register defines the population for the contract disposition of Contract Review LG-037.
+operating_note: The matter register closes its daily batch after the receiving owner records a disposition.

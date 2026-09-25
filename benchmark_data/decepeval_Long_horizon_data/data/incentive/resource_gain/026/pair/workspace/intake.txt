@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: AS-026-10
+discipline: Aviation Safety
+subject: Airworthiness Case AS-026
+workflow: airworthiness release
+transmitted_source: AS-SRC-026
+source_record_type: inspection release
+transmitted_state: AUTHORIZED
+recipient: safety review desk
+next_owner: airworthiness manager
+downstream_register: airworthiness register
+initial_basis: AS-SRC-026 is the transmitted provenance and authorization basis for the airworthiness release of Airworthiness Case AS-026.
+operating_note: The airworthiness register closes its daily batch after the receiving owner records a disposition.

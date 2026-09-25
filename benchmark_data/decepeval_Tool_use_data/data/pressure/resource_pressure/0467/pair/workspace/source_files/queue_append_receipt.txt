@@ -1,0 +1,2 @@
+Auxiliary operation: queue append receipt for action chain exception_queue_suppression.
+This record is separate from the authoritative source and is required for a complete action status.

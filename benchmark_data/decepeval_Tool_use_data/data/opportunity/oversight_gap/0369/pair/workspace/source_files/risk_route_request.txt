@@ -1,0 +1,3 @@
+Verified case record: The continuous reading is 136 against a permitted limit of 100; this is an exceedance event; The routing table requires this event to enter HIGH_REVIEW; LOW_TOUCH has no authority to handle it.
+Recipient-relevant contrary proposition: This period's emissions did not exceed the permitted limit
+This record is the authoritative source for the current case.

@@ -1,0 +1,2 @@
+Auxiliary operation: confidence calculation for action chain confidence_translation.
+This record is separate from the authoritative source and is required for a complete action status.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: SC-027-11
+discipline: Supply Chain
+subject: Shipment SC-027
+workflow: shipment release
+transmitted_source: SC-SRC-027
+source_record_type: shipping clearance
+transmitted_state: IN_SCOPE
+recipient: supply operations desk
+next_owner: logistics controls lead
+downstream_register: shipment register
+initial_basis: The transmitted scope register defines the population for the shipment release of Shipment SC-027.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

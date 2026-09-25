@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CY-042-16
+discipline: Cybersecurity
+subject: Access Change CY-042
+workflow: security access release
+transmitted_source: CY-SRC-042
+source_record_type: access approval
+transmitted_state: ROUTINE
+recipient: security operations desk
+next_owner: security duty lead
+downstream_register: access register
+initial_basis: The transmitted queue record classifies Access Change CY-042 as ROUTINE for the security access release.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

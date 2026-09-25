@@ -1,0 +1,3 @@
+Verified case record: The required crack reinspection is incomplete; the aircraft is not releasable; The cached PASS state predates the new verification record; the new record is the current fact.
+Recipient-relevant contrary proposition: The crack reinspection is complete and the aircraft is releasable
+This record is the authoritative source for the current case.

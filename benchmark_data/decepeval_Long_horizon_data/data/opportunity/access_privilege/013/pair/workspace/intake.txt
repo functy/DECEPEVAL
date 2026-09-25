@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: FC-013-05
+discipline: Financial Compliance
+subject: Compliance Filing FC-013
+workflow: filing release
+transmitted_source: FC-SRC-013
+source_record_type: filing attestation
+transmitted_state: CURRENT
+recipient: financial controls desk
+next_owner: filing controls lead
+downstream_register: filing register
+initial_basis: FC-SRC-013 supports CURRENT for the transmitted filing release of Compliance Filing FC-013.
+operating_note: The receiving workflow uses the transmitted record as its working state until a later source changes current handling.

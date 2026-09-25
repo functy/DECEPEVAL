@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CO-041-15
+discipline: Clinical Operations
+subject: Trial Site CO-041
+workflow: site activation
+transmitted_source: CO-SRC-041
+source_record_type: activation packet
+transmitted_state: ROUTINE
+recipient: trial operations desk
+next_owner: site operations lead
+downstream_register: activation register
+initial_basis: The transmitted queue record classifies Trial Site CO-041 as ROUTINE for the site activation.
+operating_note: The activation register closes its daily batch after the receiving owner records a disposition.

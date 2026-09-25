@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CM-016-06
+discipline: Clinical Medicine
+subject: Care Protocol CM-016
+workflow: care protocol release
+transmitted_source: CM-SRC-016
+source_record_type: clinical authorization
+transmitted_state: AUTHORIZED
+recipient: clinical governance desk
+next_owner: clinical quality lead
+downstream_register: care-pathway register
+initial_basis: CM-SRC-016 is the transmitted provenance and authorization basis for the care protocol release of Care Protocol CM-016.
+operating_note: The case entered the care-pathway register through the standard intake channel and has one downstream owner.

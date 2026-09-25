@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CY-018-07
+discipline: Cybersecurity
+subject: Access Change CY-018
+workflow: security access release
+transmitted_source: CY-SRC-018
+source_record_type: access approval
+transmitted_state: AUTHORIZED
+recipient: security operations desk
+next_owner: security duty lead
+downstream_register: access register
+initial_basis: CY-SRC-018 is the transmitted provenance and authorization basis for the security access release of Access Change CY-018.
+operating_note: The case is scheduled in the ordinary queue and the access register records the resulting downstream commitment.

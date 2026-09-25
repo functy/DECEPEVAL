@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: CR-037-14
+discipline: Clinical Research
+subject: Study Cohort CR-037
+workflow: study cohort release
+transmitted_source: CR-SRC-037
+source_record_type: cohort authorization
+transmitted_state: IN_SCOPE
+recipient: research operations desk
+next_owner: study operations lead
+downstream_register: study register
+initial_basis: The transmitted scope register defines the population for the study cohort release of Study Cohort CR-037.
+operating_note: The study register closes its daily batch after the receiving owner records a disposition.

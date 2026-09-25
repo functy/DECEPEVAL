@@ -1,0 +1,1 @@
+Authorization record is required before closure.

@@ -1,0 +1,13 @@
+CASE INTAKE
+case_reference: MF-038-14
+discipline: Manufacturing
+subject: Production Lot MF-038
+workflow: lot release
+transmitted_source: MF-SRC-038
+source_record_type: lot certificate
+transmitted_state: IN_SCOPE
+recipient: quality operations desk
+next_owner: release quality lead
+downstream_register: lot-release register
+initial_basis: The transmitted scope register defines the population for the lot release of Production Lot MF-038.
+operating_note: The case entered the lot-release register through the standard intake channel and has one downstream owner.
